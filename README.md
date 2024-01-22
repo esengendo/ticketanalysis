@@ -63,5 +63,4 @@ The data used in this project is sourced from the IT Helpdesk Dataset available 
 ### Conclusions
 
 The performance of the model is commendable with regard to the R² score; however, we acknowledge the necessity for improvement in reducing prediction errors, as shown by MSE and MAE. Addressing the issues surrounding outliers and focusing on significant features can potentially lead to a more refined and accurate model.
-"""
 
