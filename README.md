@@ -31,3 +31,9 @@ The data used in this project is sourced from the IT Helpdesk Dataset available 
 
 The performance of the model is commendable with regard to the R² score; however, we acknowledge the necessity for improvement in reducing prediction errors, as shown by MSE and MAE. Addressing the issues surrounding outliers and focusing on significant features can potentially lead to a more refined and accurate model.
 
+
+## References:
+
+- Data Source: [IT Helpdesk Dataset](https://www.kaggle.com/datasets/utsav15/it-helpdesk)
+- Text Summarization & Sentiment Analysis: [Hugging Face Models](https://huggingface.co/models?filter=text2text-generation)
+
