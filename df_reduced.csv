@@ -1,0 +1,332 @@
+Source,HelpTopic,KYC,ResolutionDurationMins,TimeOfDayOpened,Sentiment,DayOfWeekNum
+Email,Access Requests,N,64.0,16.0,NEGATIVE,1
+Email,Accessories,N,16404.0,14.0,,1
+Email,Accessories,N,16404.0,14.0,POSITIVE,1
+Email,Accessories,N,16404.0,14.0,NEGATIVE,1
+Email,Accessories,N,16404.0,14.0,,1
+Email,Accessories,N,16404.0,14.0,,1
+Email,Accessories,N,16404.0,14.0,,1
+Email,Accessories,N,16404.0,14.0,NEGATIVE,1
+Email,Accessories,N,16404.0,14.0,POSITIVE,1
+Email,Email Services,YY,43.266666666666666,11.0,POSITIVE,1
+Email,Access Requests,N,33.0,18.0,NEGATIVE,1
+Email,Password Reset,YY,20.516666666666666,14.0,NEGATIVE,1
+Email,Access Requests,N,12.0,17.0,NEGATIVE,1
+Email,Access Requests,N,12.0,17.0,,1
+Email,Access Requests,N,1.0,12.0,,1
+Email,Access Requests,N,1.0,12.0,POSITIVE,1
+Email,Access Requests,N,1.0,12.0,NEGATIVE,1
+Email,Email Services,YY,1.35,17.0,NEGATIVE,1
+Web,Access Requests,YYY,44320.0,17.0,NEGATIVE,1
+Email,Accessories,N,22591.0,18.0,NEGATIVE,1
+Email,Accessories,N,22591.0,18.0,POSITIVE,1
+Email,Accessories,N,22591.0,18.0,,1
+Email,Accessories,N,22591.0,18.0,POSITIVE,1
+Web,Access Requests,YYY,44320.0,17.0,NEGATIVE,1
+Email,Access Requests,N,33.0,18.0,POSITIVE,1
+Email,VPN access,YY,206.0,13.0,NEGATIVE,1
+Email,Accessories,N,5640.0,12.0,POSITIVE,1
+Email,Accessories,N,5640.0,12.0,NEGATIVE,1
+Email,Accessories,N,5640.0,12.0,,1
+Email,Access Requests,N,42823.0,18.0,NEGATIVE,1
+Email,Access Requests,N,42823.0,18.0,NEGATIVE,1
+Email,Access Requests,N,391.0,12.0,,1
+Email,Accessories,N,5640.0,12.0,POSITIVE,1
+Email,Accessories,N,5640.0,12.0,,1
+Email,Access Requests,N,391.0,12.0,,1
+Email,Access Requests,YYY,54.0,17.0,NEGATIVE,1
+Email,Access Requests,N,12.0,17.0,NEGATIVE,1
+Email,Access Requests,N,64.0,16.0,,1
+Email,Access Requests,N,64.0,16.0,,1
+Email,Data Center Services /Report VM issue,YY,153.78333333333333,12.0,NEGATIVE,1
+Web,Access Requests,YYY,44320.0,17.0,NEGATIVE,1
+Email,Access Requests,YYY,44320.0,17.0,POSITIVE,1
+Email,Accessories,N,5640.0,12.0,,1
+Email,Access Requests,N,33.0,18.0,,1
+Email,Accessories,N,0.0,12.0,,1
+Email,Accessories,N,5640.0,12.0,POSITIVE,1
+Email,Accessories,N,5640.0,12.0,NEGATIVE,1
+Email,Accessories,N,5640.0,12.0,,1
+Email,Accessories,N,5640.0,12.0,,1
+Email,Accessories,N,0.0,12.0,POSITIVE,1
+Email,Accessories,N,5640.0,12.0,POSITIVE,1
+Email,Access Requests,N,391.0,12.0,POSITIVE,1
+Email,Access Requests,N,391.0,12.0,,1
+Email,Access Requests,N,391.0,12.0,POSITIVE,1
+Email,Accessories,N,0.0,12.0,NEGATIVE,1
+Email,Accessories,N,0.0,12.0,POSITIVE,1
+Email,Accessories,N,0.0,12.0,NEGATIVE,1
+Email,Access Requests,N,38.0,15.0,POSITIVE,2
+Email,Access Requests,N,43.0,11.0,NEGATIVE,2
+Email,Access Requests,N,43.0,11.0,POSITIVE,2
+Email,Access Requests,YYY,256.0,13.0,NEGATIVE,2
+Email,Access Requests,N,38.0,15.0,,2
+Email,Access Requests,N,38.0,15.0,NEGATIVE,2
+Email,Access Requests,YYY,161.0,18.0,NEGATIVE,2
+Email,Software Request,YYY,256.0,13.0,NEGATIVE,2
+Email,Access Requests,N,44789.0,13.0,POSITIVE,2
+Email,Access Requests,N,44760.0,14.0,POSITIVE,2
+Email,Access Requests,N,44760.0,14.0,,2
+Email,Access Requests,N,44789.0,13.0,,2
+Email,Access Requests,N,44789.0,13.0,POSITIVE,2
+Web,Software Request,YYY,256.0,13.0,NEGATIVE,2
+Email,Access Requests,N,44760.0,14.0,POSITIVE,2
+Email,Access Requests,N,44760.0,14.0,NEGATIVE,2
+Email,Access Requests,N,44585.0,16.0,NEGATIVE,2
+Email,Access Requests,N,44585.0,16.0,,2
+Email,Access Requests,N,44585.0,16.0,POSITIVE,2
+Email,Access Requests,N,174.0,17.0,POSITIVE,2
+Email,Access Requests,N,174.0,17.0,NEGATIVE,2
+Email,Access Requests,N,174.0,17.0,POSITIVE,2
+Email,Access Requests,YYY,161.0,18.0,NEGATIVE,2
+Email,Access Requests,N,174.0,17.0,,2
+Email,Access Requests,N,174.0,17.0,POSITIVE,2
+Email,Access Requests,N,80.0,18.0,NEGATIVE,2
+Email,Access Requests,N,80.0,18.0,,2
+Email,Access Requests,N,80.0,18.0,POSITIVE,2
+Email,Access Requests,YYY,256.0,13.0,NEGATIVE,2
+Web,Access Requests,YYY,256.0,13.0,NEGATIVE,2
+Email,Data Center Services /Report VM issue,YY,24.766666666666666,18.0,NEGATIVE,2
+Email,Hardware,YYY,38.0,15.0,NEGATIVE,2
+Email,Access Requests,N,43.0,11.0,,2
+Email,Access Requests,N,49.0,11.0,NEGATIVE,2
+Email,Access Requests,N,41.0,17.0,POSITIVE,2
+Email,Accessories,N,1629.0,11.0,,2
+Email,Access Requests,N,49.0,11.0,POSITIVE,2
+Email,Accessories,N,1629.0,11.0,,2
+Email,Accessories,N,1629.0,11.0,,2
+Email,Accessories,N,1629.0,11.0,,2
+Email,Accessories,N,1629.0,11.0,,2
+Email,Accessories,N,1629.0,11.0,NEGATIVE,2
+Email,Accessories,N,1629.0,11.0,POSITIVE,2
+Email,Accessories,N,4.0,10.0,POSITIVE,2
+Email,Access Requests,YYY,1062.0,17.0,NEGATIVE,2
+Email,Accessories,N,0.0,19.0,POSITIVE,2
+Email,Accessories,N,0.0,19.0,NEGATIVE,2
+Email,Accessories,N,0.0,19.0,NEGATIVE,2
+Email,Accessories,N,0.0,19.0,,2
+Email,Accessories,N,0.0,19.0,POSITIVE,2
+Email,Accessories,N,0.0,19.0,,2
+Email,Accessories,N,0.0,19.0,POSITIVE,2
+Email,Access Requests,YYY,161.0,18.0,NEGATIVE,2
+Web,Software Installation & Configuration,YY,828.1666666666666,23.0,POSITIVE,2
+Email,Access Requests,YYY,256.0,13.0,NEGATIVE,2
+Email,Accessories,N,4.0,10.0,,2
+Email,Accessories,N,1629.0,11.0,POSITIVE,2
+Email,Access Requests,N,41.0,17.0,POSITIVE,2
+Email,Access Requests,YYY,161.0,18.0,NEGATIVE,2
+Email,Access Requests,N,41.0,17.0,,2
+Email,Access Requests,N,44789.0,13.0,POSITIVE,2
+Email,Access Requests,N,1062.0,17.0,NEGATIVE,2
+Email,Access Requests,N,1062.0,17.0,POSITIVE,2
+Email,Access Requests,N,44789.0,13.0,,2
+Email,Access Requests,N,1062.0,17.0,,2
+Email,Access Requests,N,1062.0,17.0,POSITIVE,2
+Email,Access Requests,N,1062.0,17.0,NEGATIVE,2
+Email,Access Requests,N,37.0,10.0,,3
+Email,Access Requests,N,37.0,10.0,,3
+Email,Access Requests,N,37.0,10.0,NEGATIVE,3
+Email,Access Requests,N,226.0,13.0,NEGATIVE,3
+Email,Access Requests,N,226.0,13.0,,3
+Email,Access Requests,N,8.0,17.0,POSITIVE,3
+Email,Access Requests,N,8.0,17.0,POSITIVE,3
+Email,Hardware,YYY,12.0,14.0,NEGATIVE,3
+Email,Access Requests,N,8.0,17.0,,3
+Email,Network,YYY,12.0,21.0,NEGATIVE,3
+Email,Access Requests,N,302.0,12.0,POSITIVE,3
+Email,Access Requests,N,302.0,12.0,NEGATIVE,3
+Email,Access Requests,N,302.0,12.0,,3
+Email,Access Requests,N,302.0,12.0,POSITIVE,3
+Email,Access Requests,N,226.0,13.0,POSITIVE,3
+Email,Network,YYY,12.0,21.0,NEGATIVE,3
+Email,Access Requests,N,176.0,11.0,,3
+Email,Access Requests,N,2.0,11.0,POSITIVE,3
+Email,Access Requests,N,176.0,11.0,NEGATIVE,3
+Email,Access Requests,N,176.0,11.0,POSITIVE,3
+Email,Jira Requests,YY,363.0,14.0,NEGATIVE,3
+Email,Access Requests,N,2.0,11.0,,3
+Email,Access Requests,N,899.0,21.0,NEGATIVE,3
+Email,Access Requests,N,899.0,21.0,,3
+Email,Access Requests,N,899.0,21.0,POSITIVE,3
+Email,Access Requests,N,160.0,9.0,NEGATIVE,3
+Email,Access Requests,N,219.0,8.0,NEGATIVE,3
+Email,Accessories,N,0.0,12.0,NEGATIVE,3
+Email,Accessories,N,0.0,12.0,NEGATIVE,3
+Email,Accessories,N,0.0,12.0,,3
+Email,Accessories,N,0.0,12.0,POSITIVE,3
+Email,Access Requests,YYY,81.0,14.0,NEGATIVE,3
+Email,Accessories,N,12.0,21.0,POSITIVE,3
+Email,Accessories,N,0.0,12.0,,3
+Email,Accessories,N,0.0,12.0,,3
+Email,Accessories,N,0.0,12.0,NEGATIVE,3
+Email,Accessories,N,0.0,12.0,,3
+Email,Accessories,N,0.0,12.0,POSITIVE,3
+Web,Accessories,N,57674.0,12.0,NEGATIVE,3
+Web,Accessories,N,57674.0,12.0,,3
+Web,Accessories,N,57674.0,12.0,POSITIVE,3
+Email,Access Requests,N,176.0,11.0,,3
+Email,Access Requests,N,176.0,11.0,POSITIVE,3
+Email,Access Requests,N,0.0,14.0,,3
+Email,Access Requests,N,59.0,16.0,,3
+Web,Access Requests,N,1093.0,1.0,NEGATIVE,3
+Web,Access Requests,N,1093.0,1.0,,3
+Email,Access Requests,N,12.0,14.0,NEGATIVE,3
+Email,Access Requests,N,12.0,14.0,POSITIVE,3
+Email,Access Requests,N,0.0,14.0,POSITIVE,3
+Email,Newhire Accounts,YY,984.2833333333333,20.0,NEGATIVE,3
+Web,Access Requests,N,1093.0,1.0,NEGATIVE,3
+Web,Access Requests,N,1093.0,1.0,,3
+Email,Access Requests,N,0.0,14.0,,3
+Email,Access Requests,N,176.0,11.0,,3
+Email,Access Requests,N,176.0,11.0,POSITIVE,3
+Email,Access Requests,N,2.0,11.0,NEGATIVE,3
+Email,Access Requests,N,0.0,14.0,NEGATIVE,3
+Email,Data Center Services,YY,242.38333333333333,14.0,NEGATIVE,3
+Web,Access Requests,N,1093.0,1.0,POSITIVE,3
+Email,Accessories,N,0.0,15.0,NEGATIVE,4
+Email,Access Requests,N,60580.0,9.0,NEGATIVE,4
+Email,Accessories,N,0.0,15.0,POSITIVE,4
+Email,Accessories,N,0.0,15.0,POSITIVE,4
+Email,Accessories,N,0.0,15.0,,4
+Email,Accessories,N,0.0,15.0,NEGATIVE,4
+Email,Access Requests,N,60580.0,9.0,NEGATIVE,4
+Email,Access Requests,N,60580.0,9.0,NEGATIVE,4
+Email,Access Requests,N,60580.0,9.0,NEGATIVE,4
+Email,Access Requests,N,60580.0,9.0,NEGATIVE,4
+Email,Accessories,N,0.0,15.0,NEGATIVE,4
+Email,Accessories,N,0.0,15.0,POSITIVE,4
+Email,Access Requests,N,1.0,18.0,NEGATIVE,4
+Email,Access Requests,N,1705.0,8.0,,4
+Email,Access Requests,N,1705.0,8.0,,4
+Email,Access Requests,N,1705.0,8.0,NEGATIVE,4
+Email,Access Requests,N,1558.0,13.0,POSITIVE,4
+Email,Access Requests,N,1705.0,8.0,POSITIVE,4
+Email,Access Requests,N,1705.0,8.0,,4
+Email,Access Requests,N,1705.0,8.0,NEGATIVE,4
+Email,Access Requests,N,1705.0,8.0,POSITIVE,4
+Email,Access Requests,N,1705.0,8.0,NEGATIVE,4
+Email,Access Requests,N,60580.0,9.0,,4
+Email,Access Requests,N,60580.0,9.0,NEGATIVE,4
+Email,Access Requests,N,1.0,18.0,POSITIVE,4
+Email,Access Requests,N,1.0,18.0,,4
+Email,Access Requests,N,1.0,18.0,POSITIVE,4
+Email,Access Requests,N,1705.0,8.0,POSITIVE,4
+Email,Access Requests,N,60580.0,9.0,NEGATIVE,4
+Email,Network & Wireless,YY,62.0,12.0,NEGATIVE,4
+Email,Access Requests,N,60580.0,9.0,,4
+Web,Access Requests,N,87650.0,22.0,NEGATIVE,4
+Web,Access Requests,N,87650.0,22.0,,4
+Web,Access Requests,N,87650.0,22.0,POSITIVE,4
+Web,Access Requests,N,87650.0,22.0,,4
+Web,Access Requests,N,87650.0,22.0,,4
+Web,Access Requests,N,87650.0,22.0,POSITIVE,4
+Web,Access Requests,N,87650.0,22.0,POSITIVE,4
+Web,Access Requests,N,87650.0,22.0,,4
+Web,Access Requests,N,87650.0,22.0,,4
+Web,Access Requests,N,87650.0,22.0,,4
+Web,Access Requests,N,87650.0,22.0,,4
+Web,Access Requests,N,87650.0,22.0,,4
+Email,Access Requests,N,117.0,10.0,POSITIVE,4
+Email,Access Requests,N,117.0,10.0,NEGATIVE,4
+Email,Access Requests,N,117.0,10.0,POSITIVE,4
+Email,Access Requests,N,117.0,10.0,,4
+Email,Hardware Issue,YY,5840.35,11.0,NEGATIVE,4
+Email,Access Requests,N,133.0,14.0,NEGATIVE,4
+Email,Access Requests,N,0.0,17.0,POSITIVE,4
+Email,Access Requests,N,133.0,14.0,POSITIVE,4
+Web,Network & Wireless,YY,434.0,11.0,NEGATIVE,4
+Email,Accessories,N,1507.0,12.0,NEGATIVE,4
+Email,Accessories,N,1507.0,12.0,NEGATIVE,4
+Email,Accessories,N,1507.0,12.0,NEGATIVE,4
+Email,Accessories,N,1507.0,12.0,NEGATIVE,4
+Email,Accessories,N,1507.0,12.0,POSITIVE,4
+Email,Access Requests,N,21.0,12.0,,4
+Email,Access Requests,N,21.0,12.0,POSITIVE,4
+Email,Access Requests,YYY,5.0,11.0,POSITIVE,4
+Email,Access Requests,YYY,107.0,12.0,NEGATIVE,4
+Email,Access Requests,YYY,300.0,12.0,NEGATIVE,4
+Email,Access Requests,YYY,5.0,11.0,NEGATIVE,4
+Email,Access Requests,YYY,21.0,12.0,NEGATIVE,4
+Email,Access Requests,YYY,5.0,11.0,NEGATIVE,4
+Email,Access Requests,N,5.0,11.0,NEGATIVE,4
+Email,Access Requests,N,5.0,11.0,POSITIVE,4
+Email,Access Requests,N,5.0,11.0,,4
+Email,Network & Wireless,YY,1411.0,13.0,NEGATIVE,4
+Email,Access Requests,N,60580.0,9.0,NEGATIVE,4
+Email,Access Requests,N,0.0,17.0,NEGATIVE,4
+Email,Access Requests,N,0.0,17.0,,4
+Email,Access Requests,N,0.0,17.0,NEGATIVE,4
+Email,Access Requests,N,0.0,17.0,NEGATIVE,4
+Email,Access Requests,N,0.0,17.0,NEGATIVE,4
+Email,Access Requests,N,0.0,17.0,,4
+Email,Access Requests,YYY,300.0,12.0,NEGATIVE,4
+Email,Access Requests,N,0.0,17.0,,4
+Email,Access Requests,N,60580.0,9.0,POSITIVE,4
+Email,Access Requests,N,0.0,17.0,POSITIVE,4
+Email,Access Requests,N,22.0,11.0,POSITIVE,5
+Email,Data Center Services /VM Request,YY,28702.333333333332,14.0,NEGATIVE,5
+Email,Network & Wireless,YY,21.0,18.0,NEGATIVE,5
+Email,Access Requests,N,227.0,11.0,POSITIVE,5
+Email,Access Requests,N,227.0,11.0,,5
+Email,Access Requests,N,22.0,11.0,NEGATIVE,5
+Email,Access Requests,N,22.0,11.0,POSITIVE,5
+Email,Network & Wireless,YY,21.0,18.0,NEGATIVE,5
+Email,Network & Wireless,YY,21.0,18.0,NEGATIVE,5
+Email,Access Requests,N,2.0,11.0,NEGATIVE,5
+Email,Access Requests,YYY,42641.0,20.0,NEGATIVE,5
+Email,Access Requests,N,22.0,11.0,,5
+Email,Access Requests,N,2.0,11.0,,5
+Email,Access Requests,N,53.0,12.0,NEGATIVE,5
+Email,Access Requests,N,2.0,11.0,POSITIVE,5
+Web,Hardware Issue,YY,49225.46666666667,14.0,NEGATIVE,5
+Email,Access Requests,N,53.0,12.0,NEGATIVE,5
+Email,Access Requests,N,14.0,15.0,POSITIVE,5
+Email,Access Requests,N,14.0,15.0,,5
+Web,Hardware Issue,YY,49225.46666666667,14.0,NEGATIVE,5
+Email,Access Requests,N,14.0,15.0,,5
+Email,Access Requests,N,227.0,11.0,NEGATIVE,5
+Email,Access Requests,N,338.0,11.0,POSITIVE,5
+Email,Access Requests,N,338.0,11.0,NEGATIVE,5
+Email,Access Requests,N,14.0,15.0,POSITIVE,5
+Email,Access Requests,N,53.0,12.0,POSITIVE,5
+Email,Access Requests,N,66.0,14.0,NEGATIVE,6
+Email,Access Requests,N,66.0,14.0,POSITIVE,6
+Email,Access Requests,N,66.0,14.0,,6
+Email,Access Requests,N,66.0,14.0,POSITIVE,6
+Email,Access Requests,N,28.0,11.0,POSITIVE,6
+Email,Access Requests,N,42710.0,20.0,NEGATIVE,6
+Email,Access Requests,N,28.0,11.0,NEGATIVE,6
+Email,Access Requests,N,28.0,11.0,,6
+Email,Access Requests,N,487.0,10.0,NEGATIVE,6
+Email,Access Requests,N,487.0,10.0,NEGATIVE,6
+Email,Access Requests,N,109.0,15.0,POSITIVE,6
+Email,Access Requests,N,109.0,15.0,,6
+Email,Access Requests,N,109.0,15.0,POSITIVE,6
+Email,Access Requests,N,109.0,15.0,POSITIVE,6
+Email,Access Requests,N,109.0,15.0,,6
+Email,Access Requests,N,109.0,15.0,POSITIVE,6
+Email,Access Requests,N,109.0,15.0,POSITIVE,6
+Email,Access Requests,N,109.0,15.0,,6
+Email,Access Requests,N,118.0,14.0,NEGATIVE,6
+Email,Access Requests,N,118.0,14.0,,6
+Email,Access Requests,N,42710.0,20.0,,6
+Email,Access Requests,YYY,42710.0,20.0,NEGATIVE,6
+Email,Access Requests,N,42710.0,20.0,NEGATIVE,6
+Email,Access Requests,N,42710.0,20.0,POSITIVE,6
+Email,Access Requests,N,118.0,14.0,,6
+Email,Access Requests,N,42967.0,16.0,POSITIVE,7
+Email,Access Requests,YYY,110.0,10.0,NEGATIVE,7
+Email,Access Requests,N,42967.0,16.0,,7
+Email,Access Requests,N,42967.0,16.0,POSITIVE,7
+Email,Access Requests,N,42967.0,16.0,POSITIVE,7
+Email,Access Requests,N,180.0,18.0,,7
+Email,Access Requests,N,180.0,18.0,NEGATIVE,7
+Email,Access Requests,N,180.0,18.0,POSITIVE,7
+Email,Access Requests,N,110.0,10.0,POSITIVE,7
+Email,Access Requests,YYY,110.0,10.0,NEGATIVE,7
+Email,Access Requests,N,32.0,10.0,,7
+Email,Access Requests,N,32.0,10.0,,7
+Email,Network & Wireless,YY,41.0,18.0,NEGATIVE,7
+Email,Access Requests,N,32.0,10.0,,7
+Email,Access Requests,N,180.0,18.0,,7
+Email,Access Requests,N,32.0,10.0,,7
