@@ -33,18 +33,6 @@ The data used in this project is sourced from the IT Helpdesk Dataset available 
 - Train the final model with the best parameters.
 - Predict and evaluate the performance on the test set.
 
-### Deployment Strategy
-- Integrate the model into the existing IT system.
-- Provide an interface for the helpdesk team.
-
-### Monitoring and Maintenance
-- Keep track of model performance.
-- Regularly update the model with new data.
-
-### Documentation and Reporting
-- Maintain thorough documentation of methods, code, and outcomes.
-- Prepare detailed reports and presentations.
-
 ## Key Considerations
 - **Data Privacy**: Comply with data protection regulations.
 - **Model Explainability**: Ensure the model's decisions can be understood.
