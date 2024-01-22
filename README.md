@@ -1,7 +1,7 @@
 # Predictive Analysis of IT Helpdesk Ticket Resolution Time
 
 ## Project Overview
-This project develops a machine learning model to predict the resolution time of IT helpdesk tickets. By analyzing historical data and ticket attributes, we aim to improve resource allocation, customer satisfaction, and operational efficiency.
+This project develops a machine learning model to predict the resolution time of IT helpdesk tickets. By analyzing historical data and ticket attributes, we aim to improve resource allocation, customer satisfaction, and operational efficiency.  This project represents a practical application of data science to enhance IT helpdesk operations, driven by insights from Kaggle's dataset.
 
 ## Data Source
 The data used in this project is sourced from the IT Helpdesk Dataset available on Kaggle, which contains a rich history of IT helpdesk tickets.
@@ -65,5 +65,3 @@ The data used in this project is sourced from the IT Helpdesk Dataset available 
 The performance of the model is commendable with regard to the R² score; however, we acknowledge the necessity for improvement in reducing prediction errors, as shown by MSE and MAE. Addressing the issues surrounding outliers and focusing on significant features can potentially lead to a more refined and accurate model.
 """
 
-This project represents a practical application of data science to enhance IT helpdesk operations, driven by insights from Kaggle's dataset.
-"""
