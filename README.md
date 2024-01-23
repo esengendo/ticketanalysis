@@ -31,7 +31,7 @@ The data used in this project is sourced from the IT Helpdesk Dataset available 
 Below are links to the charts generated from the dataset:
 
 ![Ticket Volume Over Time](https://github.com/esengendo/ticketanalysis/blob/main/Images/newplot.png)
-![Resolution Duration by Help Topic]([https://github.com/ticketanalysis/images/newplot2.png)
+![Resolution Duration by Help Topic](https://github.com/esengendo/ticketanalysis/blob/main/Images/newplot2.png)
 ![Help Topic Distribution](https://github.com/esengendo/ticketanalysis/blob/main/Images/newplot3.png)
 ![Ticket Resolution by Day of the Week](https://github.com/esengendo/ticketanalysis/blob/main/Images/newplot4.png)
 ![Source of Tickets](https://github.com/esengendo/ticketanalysis/blob/main/Images/newplot5.png)
