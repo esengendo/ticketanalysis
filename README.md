@@ -17,6 +17,27 @@ The data used in this project is sourced from the IT Helpdesk Dataset available 
 - Use Plotly for visual analytics.
 - Conduct a correlation study between features and resolution times.
 
+## Insights from Data Visualization
+
+- **Ticket Volume Over Time**: There are peak periods of ticket volume indicating potential systemic issues or specific events driving support needs.
+- **Resolution Duration by Help Topic**: Some help topics take longer to resolve, indicating areas where process improvement may be needed.
+- **Help Topic Distribution**: A small number of help topics make up the majority of tickets, which may guide resource allocation.
+- **Ticket Resolution by Day of the Week**: The start of the workweek has the highest number of resolved tickets, suggesting a need for more staff during these days.
+- **Source of Tickets**: Email is the primary source of tickets, indicating a possible focus area for optimizing support channels.
+- **Ticket Opening Time of Day Analysis**: Tickets are most frequently opened at specific times, which could inform staffing patterns.
+
+## Charts
+
+Below are links to the charts generated from the dataset:
+
+![Ticket Volume Over Time](https://github.com/esengendo/ticketanalysis/images/newplot.png)
+![Resolution Duration by Help Topic](https://github.com/ticketanalysis/images/newplot2.png)
+![Help Topic Distribution](https://github.com/ticketanalysis/images/newplot3.png)
+![Ticket Resolution by Day of the Week](https://github.com/ticketanalysis/images/newplot4.png)
+![Source of Tickets](https://github.com/ticketanalysis/images/newplot5.png)
+![Ticket Opening Time of Day Analysis](https://github.com/ticketanalysis/images/newplot6.png)
+
+
 ### Feature Selection
 - Select significant features based on their correlation with the target variable.
 
